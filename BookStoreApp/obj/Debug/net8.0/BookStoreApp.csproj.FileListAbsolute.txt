@@ -574,3 +574,10 @@ C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\obj\Debug\net8.0\refint\BookSto
 C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\obj\Debug\net8.0\BookStoreApp.pdb
 C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\obj\Debug\net8.0\BookStoreApp.genruntimeconfig.cache
 C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\obj\Debug\net8.0\ref\BookStoreApp.dll
+C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\obj\Debug\net8.0\BookStoreApp.sourcelink.json
+C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\bin\Debug\net8.0\BookStore.DataAccess.dll
+C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\bin\Debug\net8.0\BookStore.Models.dll
+C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\bin\Debug\net8.0\BookStore.Utility.dll
+C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\bin\Debug\net8.0\BookStore.DataAccess.pdb
+C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\bin\Debug\net8.0\BookStore.Models.pdb
+C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\bin\Debug\net8.0\BookStore.Utility.pdb

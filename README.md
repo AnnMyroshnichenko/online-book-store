@@ -2,11 +2,11 @@
 It is a full-featured e-commerce web application built with ASP.NET Core MVC (.NET 8), Entity Framework Core, and ASP.NET Core Identity. It demonstrates best practices in modern web development, including clean architecture, role-based access control, and third-party integrations like Stripe for payments. The application is designed with scalability and maintainability in mind, making it suitable for real-world deployment.
 
 ## Features
-- User Roles & Identity Management: Role-based access control with Admin, Employee, and Customer roles.
+- User Roles & Identity Management: Role-based access control with Admin and Customer roles.
 
 - Product Catalog: CRUD operations for categories and products.
 
-- Shopping Cart: Add, update, and remove items from the cart with session management.
+- Shopping Cart: Add, update, and remove items from the cart.
 
 - Order Processing: Place orders with order summary.
 
@@ -36,9 +36,6 @@ Email Service: SMTP
 Authentication: ASP.NET Core Identity with role management
 
 Deployment: Microsoft Azure
-
-
-## Project Structure
 
 
 ## Getting Started
@@ -111,4 +108,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ## Acknowledgments
-This project is based on the course [“.NET Core MVC - The Complete Guide 2025 [E-commerce]”] (https://www.udemy.com/course/complete-aspnet-core-21-course/?utm_source=adwords&utm_medium=udemyads&utm_campaign=Search_DSA_GammaCatchall_NonP_la.EN_cc.ROW-English&campaigntype=Search&portfolio=ROW-English&language=EN&product=Course&test=&audience=DSA&topic=&priority=Gamma&utm_content=deal4584&utm_term=_._ag_169801645584_._ad_700876640602_._kw__._de_c_._dm__._pl__._ti_dsa-1456167871416_._li_9199041_._pd__._&matchtype=&gad_source=1&gad_campaignid=21341313808&gbraid=0AAAAADROdO0ZRq54b8Sxmtvs1KbiEigLM&gclid=CjwKCAjw6NrBBhB6EiwAvnT_rubo6w3aqzPDpBeRt0dlb74FcNb9H7MnTRgvw2qlampt1QfbDq3MNRoCBX8QAvD_BwE&couponCode=PMNVD2525) by Bhrugen Patel.
+This project is based on the course “.NET Core MVC - The Complete Guide 2025 [E-commerce]” by Bhrugen Patel.
