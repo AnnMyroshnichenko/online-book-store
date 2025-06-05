@@ -1,5 +1,5 @@
 # Book Store - ASP.NET Core MVC E-Commerce Application
-It is a full-featured e-commerce web application built with ASP.NET Core MVC (.NET 8), Entity Framework Core, and ASP.NET Core Identity. It demonstrates best practices in modern web development, including clean architecture, role-based access control, and third-party integrations like Stripe for payments. The application is designed with scalability and maintainability in mind, making it suitable for real-world deployment.
+It is a full-featured e-commerce web application built with ASP.NET Core MVC (.NET 8), Entity Framework Core, and ASP.NET Core Identity. It demonstrates best practices in modern web development, including n-tier architecture, role-based access control, and third-party integrations like Stripe for payments. The application is designed with scalability and maintainability in mind, making it suitable for real-world deployment.
 
 **Note:** This project is currently under development and not yet complete.
 
