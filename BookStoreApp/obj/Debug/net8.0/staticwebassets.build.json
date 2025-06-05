@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "w178Y+dX6L0sjOveWC4S9RBc0ro37mje8U5Flv5IRwQ=",
+  "Hash": "eCIHJDKHSYIESkftbmVNB0jQDIjwm4gMGh2fIDhXvjk=",
   "Source": "BookStoreApp",
   "BasePath": "_content/BookStoreApp",
   "Mode": "Default",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "pvo7yrvn5q",
-      "Integrity": "tddDxBn2sCpTIz9jfZWe01fJ3EVWeM3e1PVE7ZuW7Hg=",
+      "Fingerprint": "zej4psmvh7",
+      "Integrity": "SwSQ1nCPh/BCl73HMPhN59LZapRNvlrZH9vtCsaQ0vY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookStoreApp.styles.css"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "pvo7yrvn5q",
-      "Integrity": "tddDxBn2sCpTIz9jfZWe01fJ3EVWeM3e1PVE7ZuW7Hg=",
+      "Fingerprint": "zej4psmvh7",
+      "Integrity": "SwSQ1nCPh/BCl73HMPhN59LZapRNvlrZH9vtCsaQ0vY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookStoreApp.bundle.scp.css"
@@ -1352,7 +1352,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "1121"
         },
         {
           "Name": "Content-Type",
@@ -1360,11 +1360,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tddDxBn2sCpTIz9jfZWe01fJ3EVWeM3e1PVE7ZuW7Hg=\""
+          "Value": "\"SwSQ1nCPh/BCl73HMPhN59LZapRNvlrZH9vtCsaQ0vY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 30 May 2025 08:22:53 GMT"
+          "Value": "Thu, 05 Jun 2025 18:05:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1374,97 +1374,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tddDxBn2sCpTIz9jfZWe01fJ3EVWeM3e1PVE7ZuW7Hg="
-        }
-      ]
-    },
-    {
-      "Route": "BookStoreApp.pvo7yrvn5q.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookStoreApp.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1130"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tddDxBn2sCpTIz9jfZWe01fJ3EVWeM3e1PVE7ZuW7Hg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 30 May 2025 08:22:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pvo7yrvn5q"
-        },
-        {
-          "Name": "label",
-          "Value": "BookStoreApp.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tddDxBn2sCpTIz9jfZWe01fJ3EVWeM3e1PVE7ZuW7Hg="
-        }
-      ]
-    },
-    {
-      "Route": "BookStoreApp.pvo7yrvn5q.styles.css",
-      "AssetFile": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookStoreApp.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1130"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"tddDxBn2sCpTIz9jfZWe01fJ3EVWeM3e1PVE7ZuW7Hg=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 30 May 2025 08:22:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "pvo7yrvn5q"
-        },
-        {
-          "Name": "label",
-          "Value": "BookStoreApp.styles.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-tddDxBn2sCpTIz9jfZWe01fJ3EVWeM3e1PVE7ZuW7Hg="
+          "Value": "sha256-SwSQ1nCPh/BCl73HMPhN59LZapRNvlrZH9vtCsaQ0vY="
         }
       ]
     },
@@ -1479,7 +1389,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1130"
+          "Value": "1121"
         },
         {
           "Name": "Content-Type",
@@ -1487,11 +1397,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tddDxBn2sCpTIz9jfZWe01fJ3EVWeM3e1PVE7ZuW7Hg=\""
+          "Value": "\"SwSQ1nCPh/BCl73HMPhN59LZapRNvlrZH9vtCsaQ0vY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 30 May 2025 08:22:53 GMT"
+          "Value": "Thu, 05 Jun 2025 18:05:07 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1501,7 +1411,97 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tddDxBn2sCpTIz9jfZWe01fJ3EVWeM3e1PVE7ZuW7Hg="
+          "Value": "sha256-SwSQ1nCPh/BCl73HMPhN59LZapRNvlrZH9vtCsaQ0vY="
+        }
+      ]
+    },
+    {
+      "Route": "BookStoreApp.zej4psmvh7.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BookStoreApp.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SwSQ1nCPh/BCl73HMPhN59LZapRNvlrZH9vtCsaQ0vY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 18:05:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zej4psmvh7"
+        },
+        {
+          "Name": "label",
+          "Value": "BookStoreApp.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SwSQ1nCPh/BCl73HMPhN59LZapRNvlrZH9vtCsaQ0vY="
+        }
+      ]
+    },
+    {
+      "Route": "BookStoreApp.zej4psmvh7.styles.css",
+      "AssetFile": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BookStoreApp.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1121"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"SwSQ1nCPh/BCl73HMPhN59LZapRNvlrZH9vtCsaQ0vY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 05 Jun 2025 18:05:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zej4psmvh7"
+        },
+        {
+          "Name": "label",
+          "Value": "BookStoreApp.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-SwSQ1nCPh/BCl73HMPhN59LZapRNvlrZH9vtCsaQ0vY="
         }
       ]
     },
