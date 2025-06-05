@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2812A6B1-0FAD-461E-A9C3-C2CDF43D64D9}|BookStore.Models\\BookStore.Models.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2812A6B1-0FAD-461E-A9C3-C2CDF43D64D9}|BookStore.Models\\BookStore.Models.csproj|solutionrelative:bookstore.models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2812A6B1-0FAD-461E-A9C3-C2CDF43D64D9}|BookStore.Models\\BookStore.Models.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2812A6B1-0FAD-461E-A9C3-C2CDF43D64D9}|BookStore.Models\\BookStore.Models.csproj|solutionrelative:bookstore.models\\viewmodels\\productvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\areas\\admin\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2812A6B1-0FAD-461E-A9C3-C2CDF43D64D9}|BookStore.Models\\BookStore.Models.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.models\\bookstore.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2812A6B1-0FAD-461E-A9C3-C2CDF43D64D9}|BookStore.Models\\BookStore.Models.csproj|solutionrelative:bookstore.models\\bookstore.models.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250601172901_addForeignKeyForCategoryProductRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookStore.DataAccess\\Migrations\\20250601172901_addForeignKeyForCategoryProductRelation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2812A6B1-0FAD-461E-A9C3-C2CDF43D64D9}|BookStore.Models\\BookStore.Models.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2812A6B1-0FAD-461E-A9C3-C2CDF43D64D9}|BookStore.Models\\BookStore.Models.csproj|solutionrelative:bookstore.models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -11,120 +55,12 @@
       "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\migrations\\20250602065629_addimageurltoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\20250602065629_addimageurltoproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\areas\\admin\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\areas\\customer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\areas\\admin\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\repository\\irepository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\repository\\irepository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\repository\\irepository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\areas\\customer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\migrations\\20250309092420_seedcategorytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\20250309092420_seedcategorytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\migrations\\20250309090302_addcategorytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\20250309090302_addcategorytable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\appdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\migrations\\20250309092420_seedcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\20250309092420_seedcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\migrations\\20250309090302_addcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\20250309090302_addcategorytable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\areas\\admin\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\areas\\admin\\views\\category\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2812A6B1-0FAD-461E-A9C3-C2CDF43D64D9}|BookStore.Models\\BookStore.Models.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.models\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2812A6B1-0FAD-461E-A9C3-C2CDF43D64D9}|BookStore.Models\\BookStore.Models.csproj|solutionrelative:bookstore.models\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E6B9A07C-6DD0-440C-8F7B-87BFDA07967C}|BookStore.Utility\\BookStore.Utility.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.utility\\staticdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6B9A07C-6DD0-440C-8F7B-87BFDA07967C}|BookStore.Utility\\BookStore.Utility.csproj|solutionrelative:bookstore.utility\\staticdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2812A6B1-0FAD-461E-A9C3-C2CDF43D64D9}|BookStore.Models\\BookStore.Models.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2812A6B1-0FAD-461E-A9C3-C2CDF43D64D9}|BookStore.Models\\BookStore.Models.csproj|solutionrelative:bookstore.models\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\views\\shared\\_notification.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{782D6F27-2C4B-42F8-AFD8-A76D042121DA}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|c:\\users\\admin\\desktop\\bookstoreapp\\bookstore.dataaccess\\migrations\\20250601173627_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38B2FF88-9D13-4369-B406-8973B22A5F9E}|BookStore.DataAccess\\BookStore.DataAccess.csproj|solutionrelative:bookstore.dataaccess\\migrations\\20250601173627_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -134,383 +70,190 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "BookStoreApp\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "BookStoreApp\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-31T15:36:45.652Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Program.cs",
-              "RelativeDocumentMoniker": "BookStoreApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Program.cs",
-              "RelativeToolTip": "BookStoreApp\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T08:14:01.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "BookStoreApp\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "BookStoreApp\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBoAAABIAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "BookStoreApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "BookStoreApp\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACwAAABqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T09:14:28.068Z",
+              "WhenOpened": "2025-06-01T16:38:08.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeDocumentMoniker": "BookStoreApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "RelativeToolTip": "BookStoreApp\\Areas\\Admin\\Views\\Category\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-09T09:12:55.695Z",
+              "Title": "ProductVM.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Models\\ViewModels\\ProductVM.cs",
+              "RelativeDocumentMoniker": "BookStore.Models\\ViewModels\\ProductVM.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Models\\ViewModels\\ProductVM.cs",
+              "RelativeToolTip": "BookStore.Models\\ViewModels\\ProductVM.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:25:28.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Models\\Product.cs",
+              "RelativeDocumentMoniker": "BookStore.Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Models\\Product.cs",
+              "RelativeToolTip": "BookStore.Models\\Product.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T17:10:15.263Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ScaffoldingReadMe.txt",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\ScaffoldingReadMe.txt",
-              "RelativeDocumentMoniker": "BookStoreApp\\ScaffoldingReadMe.txt",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\ScaffoldingReadMe.txt",
-              "RelativeToolTip": "BookStoreApp\\ScaffoldingReadMe.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-31T11:37:31.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "BookStoreApp\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "BookStoreApp\\Areas\\Customer\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "BookStoreApp\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T08:07:13.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "BookStoreApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "BookStoreApp\\Areas\\Admin\\Controllers\\CategoryController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T09:10:23.094Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "BookStore.DataAccess\\Repository\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Repository\\UnitOfWork.cs",
-              "RelativeToolTip": "BookStore.DataAccess\\Repository\\UnitOfWork.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:17:10.981Z"
+              "WhenOpened": "2025-06-02T06:57:48.157Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "BookStore.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "RelativeToolTip": "BookStore.DataAccess\\Repository\\IRepository\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-31T11:15:58.704Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "BookStore.DataAccess\\Repository\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Repository\\CategoryRepository.cs",
-              "RelativeToolTip": "BookStore.DataAccess\\Repository\\CategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T16:02:42.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ICategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "RelativeDocumentMoniker": "BookStore.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "RelativeToolTip": "BookStore.DataAccess\\Repository\\IRepository\\ICategoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T16:00:33.052Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "BookStore.DataAccess\\Repository\\Repository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Repository\\Repository.cs",
-              "RelativeToolTip": "BookStore.DataAccess\\Repository\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T15:48:00.832Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeDocumentMoniker": "BookStore.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "RelativeToolTip": "BookStore.DataAccess\\Repository\\IRepository\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T15:36:33.101Z"
+              "Title": "BookStore.Models.csproj",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Models\\BookStore.Models.csproj",
+              "RelativeDocumentMoniker": "BookStore.Models\\BookStore.Models.csproj",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Models\\BookStore.Models.csproj",
+              "RelativeToolTip": "BookStore.Models\\BookStore.Models.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T07:28:41.679Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "BookStoreApp\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "BookStoreApp\\Areas\\Customer\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADIAAAAAAAAAAAAAAEEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-30T14:01:24.691Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "RelativeDocumentMoniker": "BookStoreApp\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
-              "RelativeToolTip": "BookStoreApp\\Areas\\Admin\\Views\\Category\\Edit.cshtml",
+              "Title": "20250602065629_addImageURLToProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250602065629_addImageURLToProduct.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\20250602065629_addImageURLToProduct.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250602065629_addImageURLToProduct.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\20250602065629_addImageURLToProduct.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T06:56:29.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BookStoreApp\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "BookStoreApp\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T13:03:30.719Z"
+              "WhenOpened": "2025-06-01T16:38:09.568Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "20250309090302_AddCategoryTable.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250309090302_AddCategoryTable.Designer.cs",
-              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\20250309090302_AddCategoryTable.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250309090302_AddCategoryTable.Designer.cs",
-              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\20250309090302_AddCategoryTable.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T07:55:47.603Z"
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BookStoreApp\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "BookStoreApp\\Areas\\Admin\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:38:10.733Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20250309090302_AddCategoryTable.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250309090302_AddCategoryTable.cs",
-              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\20250309090302_AddCategoryTable.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250309090302_AddCategoryTable.cs",
-              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\20250309090302_AddCategoryTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:10:41.169Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "AppDbContextModelSnapshot.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\AppDbContextModelSnapshot.cs",
-              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\AppDbContextModelSnapshot.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T08:02:33.231Z"
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "BookStoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "BookStoreApp\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T16:38:11.87Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "20250309092420_SeedCategoryTable.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250309092420_SeedCategoryTable.Designer.cs",
-              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\20250309092420_SeedCategoryTable.Designer.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250309092420_SeedCategoryTable.Designer.cs",
-              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\20250309092420_SeedCategoryTable.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAApAAAAAAAAAA==",
+              "Title": "20250601173627_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250601173627_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\20250601173627_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250601173627_InitialCreate.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\20250601173627_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T08:01:09.88Z"
+              "WhenOpened": "2025-06-01T17:36:27.781Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "20250309092420_SeedCategoryTable.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250309092420_SeedCategoryTable.cs",
-              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\20250309092420_SeedCategoryTable.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250309092420_SeedCategoryTable.cs",
-              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\20250309092420_SeedCategoryTable.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T08:21:03.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
-              "RelativeDocumentMoniker": "BookStoreApp\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
-              "RelativeToolTip": "BookStoreApp\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T13:21:41.314Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeDocumentMoniker": "BookStoreApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "RelativeToolTip": "BookStoreApp\\Areas\\Admin\\Views\\Category\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-28T12:00:18.911Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Models\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "BookStore.Models\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Models\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "BookStore.Models\\Models\\ErrorViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T08:12:28.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "BookStoreApp\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "BookStoreApp\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-30T08:15:03.669Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "Error.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\Shared\\Error.cshtml",
-              "RelativeDocumentMoniker": "BookStoreApp\\Views\\Shared\\Error.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\Shared\\Error.cshtml",
-              "RelativeToolTip": "BookStoreApp\\Views\\Shared\\Error.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-30T08:13:18.755Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Models\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "BookStore.Models\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Models\\Models\\Category.cs",
-              "RelativeToolTip": "BookStore.Models\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T08:11:55.701Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "BookStore.DataAccess\\Data\\AppDbContext.cs",
               "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Data\\AppDbContext.cs",
               "RelativeToolTip": "BookStore.DataAccess\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABMAAAAAAAAAA==",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAAALMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:07:13.713Z"
+              "WhenOpened": "2025-06-01T17:16:06.683Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "StaticDetails.cs",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Utility\\StaticDetails.cs",
-              "RelativeDocumentMoniker": "BookStore.Utility\\StaticDetails.cs",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Utility\\StaticDetails.cs",
-              "RelativeToolTip": "BookStore.Utility\\StaticDetails.cs",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Models\\Category.cs",
+              "RelativeDocumentMoniker": "BookStore.Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.Models\\Category.cs",
+              "RelativeToolTip": "BookStore.Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T17:16:23.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250601172901_addForeignKeyForCategoryProductRelation.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250601172901_addForeignKeyForCategoryProductRelation.cs",
+              "RelativeDocumentMoniker": "BookStore.DataAccess\\Migrations\\20250601172901_addForeignKeyForCategoryProductRelation.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStore.DataAccess\\Migrations\\20250601172901_addForeignKeyForCategoryProductRelation.cs",
+              "RelativeToolTip": "BookStore.DataAccess\\Migrations\\20250601172901_addForeignKeyForCategoryProductRelation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T17:04:19.609Z"
+              "WhenOpened": "2025-06-01T17:29:01.215Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_Notification.cshtml",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\Shared\\_Notification.cshtml",
-              "RelativeDocumentMoniker": "BookStoreApp\\Views\\Shared\\_Notification.cshtml",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\Shared\\_Notification.cshtml",
-              "RelativeToolTip": "BookStoreApp\\Views\\Shared\\_Notification.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAIBJwBMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BookStoreApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BookStoreApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-29T14:26:16.694Z"
+              "WhenOpened": "2025-06-01T17:00:56.731Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\appsettings.json",
-              "RelativeDocumentMoniker": "BookStoreApp\\appsettings.json",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\appsettings.json",
-              "RelativeToolTip": "BookStoreApp\\appsettings.json",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "BookStoreApp\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "BookStoreApp\\Views\\Shared\\_Layout.cshtml.css",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-28T19:19:27.427Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "BookStoreApp\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Admin\\Desktop\\BookStoreApp\\BookStoreApp\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "BookStoreApp\\wwwroot\\css\\site.css",
-              "ViewState": "AgIAABsAAAAAAAAAAIBJwCUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-05-20T16:24:42.243Z"
+              "WhenOpened": "2025-06-01T17:00:55.468Z"
             }
           ]
         }

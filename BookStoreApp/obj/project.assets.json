@@ -2833,7 +2833,10 @@
         },
         "runtime": {
           "bin/placeholder/BookStore.Models.dll": {}
-        }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
       },
       "BookStore.Utility/1.0.0": {
         "type": "project",

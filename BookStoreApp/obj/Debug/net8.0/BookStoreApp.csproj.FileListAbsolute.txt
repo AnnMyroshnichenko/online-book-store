@@ -581,3 +581,4 @@ C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\bin\Debug\net8.0\BookStore.Util
 C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\bin\Debug\net8.0\BookStore.DataAccess.pdb
 C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\bin\Debug\net8.0\BookStore.Models.pdb
 C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\bin\Debug\net8.0\BookStore.Utility.pdb
+C:\Users\Admin\Desktop\BookStoreApp\BookStoreApp\obj\Debug\net8.0\BookStoreApp.MvcApplicationPartsAssemblyInfo.cs
